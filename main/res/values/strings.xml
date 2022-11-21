@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">Classroom Manager</string>
+    <string name="signInTxt">Sign In</string>
+    <string name="emailInputHint">E-mail</string>
+    <string name="Priority">priority</string>
+    <string name="passInputHint">Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="RegText">New User? Sign up</string>
+    <string name="regNameInput">Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="passRegHint">Password</string>
+    <string name="e_mailRegHint">E-mail</string>
+    <string name="imageTODO">TODO</string>
+    <string name="regText">Sign Up</string>
+    <string name="regButton">Register</string>
+    <string name="alreadyPrompt">Already Signed up? Sign In?</string>
+    <string name="todo">TODO</string>
+    <string-array name="Main">
+        <item>Schedule</item>
+        <item>Subjects</item>
+        <item>Room Allocations</item>
+        <item>Send Email </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Gives you your class schedule</item>
+        <item>Subjects and their syllabus</item>
+        <item>Manage Rooms</item>
+        <item>Send Email to your students and colleagues</item>
+    </string-array>
+
+    <string-array name="Week">
+        <item>A Day</item>
+        <item>B Day</item>
+        <item>C Day</item>
+        <item>D Day</item>
+        <item>E Day</item>
+    </string-array>
+
+    <string-array name="A_Day">
+        <item>Programming Fundamentals</item>
+        <item>Numerical Analysis</item>
+        <item>Break</item>
+        <item>Sessional On Data Structure</item>
+        <item>Break</item>
+        <item>Database Management</item>
+        <item>Software Project-I</item>
+    </string-array>
+
+    <string-array name="B_Day">
+        <item>Computer Communication Networks</item>
+        <item>Data Structure</item>
+        <item>Break</item>
+        <item>Numerical Analysis</item>
+        <item>Numerical Analysis</item>
+        <item>Break</item>
+        <item> Sessional On Databse Management</item>
+    </string-array>
+
+    <string-array name="C_Day">
+        <item>Data Structure</item>
+        <item>Computer Communication Networks</item>
+        <item>Break</item>
+        <item>Numerical Analysis</item>
+        <item>Database Management</item>
+        <item>Break</item>
+        <item>Programming Fundamentals</item>
+    </string-array>
+
+    <string-array name="D_Day">
+        <item>Programming Fundamentals</item>
+        <item>Database Management</item>
+        <item>Break</item>
+        <item>Data Structure</item>
+        <item>Data Structure</item>
+        <item>Break</item>
+        <item>Database Management</item>
+    </string-array>
+
+    <string-array name="E_Day">
+        <item>Programming Fundamentals</item>
+        <item>Break</item>
+        <item>Sessional On Discrete Mathematics</item>
+        <item>Data Structure</item>
+        <item>Break</item>
+        <item>Software Engineering</item>
+    </string-array>
+
+
+    <string-array name="time1">
+        <item>8:00AM - 8:50AM</item>
+        <item>8:50AM - 9:40AM</item>
+        <item>9:40AM - 10:30AM</item>
+        <item>10:50AM - 11:40PM</item>
+        <item>11:40PM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>2:30PM - 5:00PM</item>
+    </string-array>
+
+    <string-array name="time2">
+        <item>8:00AM - 8:50AM</item>
+        <item>9:40AM - 10:35AM</item>
+        <item>10:50AM - 11:40AM</item>
+        <item>11:40AM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>2:30PM - 3:20PM</item>
+        <item>3:20PM - 5:00PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>8:00AM - 8:50AM</item>
+        <item>8:50AM - 9:40AM</item>
+        <item>9:40AM - 10:30AM</item>
+        <item>10:50AM - 11:40PM</item>
+        <item>11:40PM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>2:30PM - 5:00PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>8:00AM - 8:50AM</item>
+        <item>8:50AM - 9:40AM</item>
+        <item>9:40AM - 10:30AM</item>
+        <item>10:50AM - 11:40PM</item>
+        <item>11:40PM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>2:30PM - 5:00PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>8:00AM - 8:50AM</item>
+        <item>9:40AM - 10:30AM</item>
+        <item>10:55AM - 11:40AM</item>
+        <item>11:40AM - 12:30PM</item>
+        <item>12:30PM - 1:20PM</item>
+        <item>2:30PM - 5:00PM</item>
+    </string-array>
+
+    <string-array name="RoomsA">
+        <item>Room 201</item>
+        <item>Room 202</item>
+        <item>Room 203</item>
+        <item>Room 104</item>
+        <item>ACL Lab</item>
+        <item>NW Lab</item>
+        <item>OS Lab</item>
+    </string-array>
+
+    <string-array name="RoomsB">
+        <item>Room 202</item>
+        <item>Room 102</item>
+        <item>Room 101</item>
+        <item>Room 204</item>
+        <item>ACL Lab</item>
+        <item>HW Lab</item>
+        <item>SW Lab</item>
+    </string-array>
+
+    <string-array name="RoomsC">
+        <item>Room 202</item>
+        <item>Room 102</item>
+        <item>Room 101</item>
+        <item>Room 103</item>
+        <item>ACL Lab</item>
+        <item>Room 203</item>
+        <item>SW Lab</item>
+    </string-array>
+
+    <string-array name="RoomsD">
+        <item>Room 202</item>
+        <item>Room 102</item>
+        <item>Room 101</item>
+        <item>Room 103</item>
+        <item>ACL Lab</item>
+        <item>Room 203</item>
+        <item>SW Lab</item>
+    </string-array>
+
+    <string-array name="RoomsE">
+        <item>Room 202</item>
+        <item>Room 102</item>
+        <item>Room 101</item>
+        <item>Room 103</item>
+        <item>ACL Lab</item>
+        <item>Room 203</item>
+
+    </string-array>
+
+    <string-array name="Subjects">
+        <item>Programming Fundamentals</item>
+        <item>Data Structure</item>
+        <item>Object Oriented Programming</item>
+
+    </string-array>
+
+    <string-array name="Programming_Fundamentals">
+        <item>Basics of Programming with C</item>
+        <item>Variables, arrays, loops, recursion, conditional statements, pointers</item>
+        <item>File Handling</item>
+        <item>Introduction to Programming with C - Byron S. Gottfried by Schaoum's Outlines 3rd Edition</item>
+
+    </string-array>
+    <string-array name="Data_Structure">
+        <item>Introduction To Data Structures</item>
+        <item>Arrays, Linked Lists, Stack , Queue, Tree</item>
+        <item>Sorting and Searching Algorithms</item>
+        <item>Data Structure- Lipschutz by Schaoum's Outlines 3rd Edition</item>
+
+    </string-array>
+    <string-array name="Object_Oriented_Programming">
+        <item>Introduction to OOP</item>
+        <item>Basic Concepts e.g. Abstraction, Encapsulation,Inheritance, Polymorphism</item>
+        <item>Software Design Patterns</item>
+        <item>Teach Yourself C++ by Herbert Schildt 3rd Edition</item>
+
+    </string-array>
+
+    <string-array name="titles">
+        <item>Unit 1</item>
+        <item>Unit 2</item>
+        <item>Unit 3</item>
+        <item>Recommended Book</item>
+
+    </string-array>
+
+
+    <string name="title_activity_day_detail">DayDetail</string>
+
+</resources>
